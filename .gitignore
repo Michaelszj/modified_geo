@@ -16,3 +16,6 @@ PF-dataset-PASCAL
 SPair-71k
 third_party/ODISE/odise/model_zoo/configs
 wandb
+casual_video
+davis_dino
+kinetics_dino
